@@ -1,0 +1,13 @@
+{
+    "name": "webserver",
+    "version": "1.0.0",
+    "description": "Web Server",
+    "main": "app.js",
+    "scripts": {
+        "start": "npm install && node app"
+    },
+    "author": "Your Name",
+    "dependencies": {
+        "express": "*"
+    }
+}
